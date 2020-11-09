@@ -1,0 +1,29 @@
+﻿  Form1.cpp
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(140): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(198): error C2065: 'vetites': undeclared identifier
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(198): error C2227: left of '->Add' must point to class/struct/union/generic type
+  e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(198): note: type is 'unknown-type'
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(198): error C2065: 'izo': undeclared identifier
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(199): error C2065: 'vetites': undeclared identifier
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(199): error C2227: left of '->Add' must point to class/struct/union/generic type
+  e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(199): note: type is 'unknown-type'
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(200): error C2065: 'vetites': undeclared identifier
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(200): error C2227: left of '->Add' must point to class/struct/union/generic type
+  e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(200): note: type is 'unknown-type'
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(200): error C2065: 'cent': undeclared identifier
+  WindowsForm.cpp
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(140): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(198): error C2065: 'vetites': undeclared identifier
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(198): error C2227: left of '->Add' must point to class/struct/union/generic type
+  e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(198): note: type is 'unknown-type'
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(198): error C2065: 'izo': undeclared identifier
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(199): error C2065: 'vetites': undeclared identifier
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(199): error C2227: left of '->Add' must point to class/struct/union/generic type
+  e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(199): note: type is 'unknown-type'
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(200): error C2065: 'vetites': undeclared identifier
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(200): error C2227: left of '->Add' must point to class/struct/union/generic type
+  e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(200): note: type is 'unknown-type'
+e:\spark\documents\visual studio 2017\projects\advanced 3d projection\advanced 3d projection\Form1.h(200): error C2065: 'cent': undeclared identifier
+  Generating Code...
